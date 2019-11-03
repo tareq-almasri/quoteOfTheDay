@@ -27,7 +27,7 @@ If you think they can be useful put some comments to document your code, but rem
 
 You're very welcome to customize the UI of your webapp. Here a demo with the minimum requirments.
 
-<img width="200" alt="mockup" src="demo.gif">
+<img alt="mockup" src="demo.gif">
 
 
 ## Sample Data:
