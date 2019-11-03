@@ -6,7 +6,7 @@ Create a webapp to display a random quote using HTML, CSS and Javascript
 
 - Setup a consistent project structure
 - Use vanilla javascript (no JQuery but Bootstrap css is ok)
-- Only use [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/) as resource (don't cheat! we'll know 🐷 )  
+- Only use [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/) as resource
 - You will work on your own: it's an individual assignment  
 
 
@@ -23,11 +23,11 @@ Sometimes it's a good idea to create multiple functions, that do one specific th
 
 If you think they can be useful put some comments to document your code, but remember don't tell-stories (review [Don't be a Ninja](https://codepen.io/leandro_berlin/pen/GzKWwv?editors=0010)). Add the needed JavaScript to load a new random quote, when the button below the quote is used.
 
-## Mockup
+## Demo
 
-You're very welcome to customize the UI of your webapp. Here a mockup with the minimum requirments.
+You're very welcome to customize the UI of your webapp. Here a demo with the minimum requirments.
 
-<img width="200" alt="mockup" src="./assets/images/mockup.png">
+<img width="200" alt="mockup" src="demo.gif">
 
 
 ## Sample Data:
